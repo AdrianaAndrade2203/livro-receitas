@@ -4,4 +4,4 @@
 
 Olá! Bem vindo ao me livro de receitas:
 
-* Arroz Doce;
+* Mousse de chocolate;
